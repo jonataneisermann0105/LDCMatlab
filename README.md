@@ -1,8 +1,8 @@
-# Lid-Driven Cavity (LDC) Laminar Flow Simulation
+# Square Lid-Driven Cavity Laminar Flow Simulation
 
 ## English
 
-This repository contains MATLAB code for the numerical simulation of incompressible laminar flow in a square lid-driven cavity (LDC) using the streamfunction-vorticity formulation.
+This repository contains MATLAB code for the numerical simulation of incompressible laminar flow in a square lid-driven cavity (SLDC) using the streamfunction-vorticity formulation.
 
 ### Features
 
