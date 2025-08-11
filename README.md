@@ -1,4 +1,4 @@
-# Square Lid-Driven Cavity Laminar Flow Simulation
+# Lid-Driven Cavity Laminar Flow Simulation
 
 ## English
 
